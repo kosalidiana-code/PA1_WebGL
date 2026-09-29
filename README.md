@@ -1,4 +1,4 @@
-# PA1 — 3D Shapes in WebGL
+# PA1 - 3D Shapes in WebGL
 
 Student ID: 241629
 
